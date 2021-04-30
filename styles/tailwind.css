@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.height {
+  height: 70vh;
+}
+
+svg.recharts-surface tspan {
+  font-size: 0.2rem !important;
+  color: #14121f !important;
+  padding: 0;
+  margin: 0;
+}
